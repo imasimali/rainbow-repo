@@ -2,7 +2,7 @@ name: fiverr-pinger
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # runs every 5 minutes
+    - cron: '0 * * * *' # runs every 5 minutes
   repository_dispatch:
     types: [pingger]
   workflow_dispatch:
