@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu July 29 2021
-
-@author: imasimali
-"""
-# required libraries
 import requests
 
 data = {"entity_id":"95483450","platform":"web"}
