@@ -1,4 +1,4 @@
-[![fiverr-pinger](https://github.com/imasimali/rainbow-fiverr-ping/actions/workflows/fiverr-pinger.yml/badge.svg)](https://github.com/imasimali/rainbow-fiverr-ping/actions/workflows/fiverr-pinger.yml)
+[![fiverr-pinger](https://github.com/imasimali/rainbow-fiverr-ping/actions/workflows/fiverr-pinger.yml/badge.svg?branch=main)](https://github.com/imasimali/rainbow-fiverr-ping/actions/workflows/fiverr-pinger.yml)
 
 # covid-19-san-juan  
 
