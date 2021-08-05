@@ -9,16 +9,16 @@ on:
 
 jobs:
   build:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
         uses: actions/checkout@v2 # checkout the repository content to github runner
 
-#      - name: setup python
-#        uses: actions/setup-python@v2
+      - name: setup python
+        uses: actions/setup-python@v2
           
-#      - name: install python requests lib
-#        run: python -m pip install requests
+      - name: install python requests lib
+        run: python -m pip install requests
 
       - name: execute py script # run ping-fiverr.py
         run: python3 ping-fiverr.py
