@@ -1,1 +1,0 @@
-[![fiverr-pinger](https://github.com/imasimali/rainbow-fiverr-ping/actions/workflows/fiverr-pinger.yml/badge.svg?branch=main)](https://github.com/imasimali/rainbow-fiverr-ping/actions/workflows/fiverr-pinger.yml)
